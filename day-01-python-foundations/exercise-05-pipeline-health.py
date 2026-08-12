@@ -1,3 +1,9 @@
+"""
+Exercise: Pipeline Health
+Student: Nawaraj Tamang
+Day: 1
+"""
+#function to check pipeline health
 def check_pipeline(rows_loaded, rows_failed, runtime_minutes):
     total_rows = rows_loaded + rows_failed
     failure_rate = (rows_failed / total_rows) * 100

@@ -1,3 +1,9 @@
+"""
+Exercise: Access Decision
+Student: Nawaraj Tamang
+Day: 1
+"""
+#function to check access
 def check_access(user_role, is_active, requested_dataset):
     allowed_roles = ["analyst", "scientist", "engineer"]
     restricted_datasets = ["salary_data", "personal_data"]

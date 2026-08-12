@@ -1,7 +1,14 @@
+"""
+Exercise: data quality checker
+Student: Nawaraj Tamang
+Day: 1
+"""
+#inputs
 total_rows = 2000
 missing_rows = 120
 duplicate_rows = 30
 
+#calculations
 problematic_rows = missing_rows + duplicate_rows
 problem_percentage = (problematic_rows / total_rows) * 100
 
@@ -12,6 +19,7 @@ elif problem_percentage <= 5:
 else:
     classification = "Needs Cleaning"
 
+#outputs
 print(f"Total rows: {total_rows}")
 print(f"Problematic rows: {problematic_rows}")
 print(f"Problem percentage: {problem_percentage:.2f}%")

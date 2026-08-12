@@ -3,7 +3,7 @@
 ## Student Information
 
 - Name: Nawaraj Tamang
-- Cohort: 
+- Cohort: Data Training Batch 16
 - Track Interest:Data Engineering
 
 ## About This Repository

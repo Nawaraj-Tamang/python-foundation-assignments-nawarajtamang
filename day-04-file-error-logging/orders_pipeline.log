@@ -1,0 +1,5 @@
+2026-08-19 18:00:37,818 | INFO     | Row 1: order 1 processed successfully
+2026-08-19 18:00:37,818 | ERROR    | Row 2: could not convert qty/price ('not_a_number', '15.00') - SKIPPED
+2026-08-19 18:00:37,819 | ERROR    | Row 3: negative qty or price - SKIPPED
+2026-08-19 18:00:37,819 | INFO     | Row 4: order 4 processed successfully
+2026-08-19 18:00:37,819 | INFO     | Finished reading input CSV

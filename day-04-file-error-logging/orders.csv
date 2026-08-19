@@ -1,0 +1,5 @@
+order_id,item,qty,price
+1,Keyboard,2,45.00
+2,Mouse,not_a_number,15.00
+3,Monitor,1,-120.00
+4,USB Cable,5,4.50

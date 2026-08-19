@@ -15,3 +15,4 @@ This repository contains my assignments and practice exercises from the Python F
 - [x] Day 1: Python Foundations
 - [x] Day 2: Loops and data structures
 - [x] Day 3: Functions and Modules
+- [x] Day 4: File & Error Handling, Logging

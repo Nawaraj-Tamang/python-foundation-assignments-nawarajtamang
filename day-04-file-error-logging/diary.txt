@@ -1,0 +1,3 @@
+Today I practiced file handling in Python.
+It was easier than I expected.
+Tomorrow: error handling and logging.

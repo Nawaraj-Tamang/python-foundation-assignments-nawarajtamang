@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Deep Learning with Python",
+    "author": "F. Chollet",
+    "year": 2017,
+    "available": true
+  },
+  {
+    "title": "Fluent Python",
+    "author": "L. Ramalho",
+    "year": 2022,
+    "available": true
+  },
+  {
+    "title": "Automate the Boring Stuff",
+    "author": "A. Sweigart",
+    "year": 2015,
+    "available": true
+  },
+  {
+    "title": "Old Python Book",
+    "author": "Someone",
+    "year": 2010,
+    "available": true
+  },
+  {
+    "title": "Unavailable New Book",
+    "author": "Someone Else",
+    "year": 2020,
+    "available": false
+  }
+]

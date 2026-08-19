@@ -32,8 +32,8 @@ python exercise-06-dataset-access-decision.py
 
 ## What I Learned
 
-I learned how to clean and standardize messy input data using string methods like `.strip()`, `.lower()`, and `.title()`, and how f-strings with format specifiers (like `:.2f`) make output much more readable. I also practiced writing conditional logic with `if/elif/else` and ternary expressions to classify data based on multiple thresholds, and saw how combining conditions with `and` can change the outcome significantly compared to checking them separately.
+I learned how to clean and standardize messy input data using string methods like '.strip()', '.lower()', and '.title()', and how f-strings with format specifiers (like ':.2f') make output much more readable. I also practiced writing conditional logic with 'if/elif/else' and ternary expressions to classify data based on multiple thresholds, and saw how combining conditions with 'and' can change the outcome significantly compared to checking them separately.
 
 ## Challenges Faced
 
-The trickiest part was the Pipeline Health Status exercise, specifically the case where the failure rate was low but the runtime was high. Initially it seemed like it should count as "Healthy" since the failure rate alone met the threshold, but I realized the rules required both conditions to hold, not just one. I solved this by using `and` in the condition (`failure_rate <= 2 and runtime_minutes <= 20`) instead of checking failure rate alone, which correctly pushed that case down into "Warning."
+The trickiest part was the Pipeline Health Status exercise, specifically the case where the failure rate was low but the runtime was high. Initially it seemed like it should count as "Healthy" since the failure rate alone met the threshold, but I realized the rules required both conditions to hold, not just one. I solved this by using 'and' in the condition ('failure_rate <= 2 and runtime_minutes <= 20') instead of checking failure rate alone, which correctly pushed that case down into "Warning."

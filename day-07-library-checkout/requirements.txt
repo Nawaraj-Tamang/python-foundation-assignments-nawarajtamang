@@ -1,0 +1,7 @@
+# Day 7 assignment -- Cedar Grove Public Library: Checkouts
+# Install with:  pip install -r requirements.txt
+
+pandas>=2.1
+numpy>=1.26
+requests>=2.31
+jupyterlab>=4.0

@@ -1,0 +1,202 @@
+customer_id,first_name,last_name,gender,dob,city,state,country,phone,email,occupation,annual_income,credit_score,kyc_status,join_date,risk_category
+1,Krishna,Rai,Female,1959-05-02,Pokhara,Gandaki,Nepal,9845962432,krishna.rai1@mailbank.com,Engineer,1650069.45,359,Expired,2018-10-25,Low
+2,Anita,Lama,Female,1961-04-08,Biratnagar,Koshi,Nepal,9816087647,anita.lama2@mailbank.com,Software Developer,1886567.14,879,Verified,2019-01-03,High
+3,Gita,Pandey,Female,1959-06-13,Biratnagar,Koshi,Nepal,9813126110,gita.pandey3@mailbank.com,Software Developer,3631043.21,596,Pending,2017-03-27,High
+4,Mina,Pandey,Female,2005-04-06,Bhaktapur,Bagmati,Nepal,9822128342,mina.pandey4@mailbank.com,Engineer,2518032.66,492,Verified,2016-03-09,High
+5,Indira,Gurung,Male,1973-06-23,Butwal,Lumbini,Nepal,9845683141,indira.gurung5@mailbank.com,Student,3304459.68,776,Expired,2024-03-01,Medium
+6,Sabina,Bhattarai,Male,1976-11-24,Pokhara,Gandaki,Nepal,9848548922,sabina.bhattarai6@mailbank.com,Government Employee,2291289.95,651,Pending,2020-06-16,High
+7,Suresh,Tamang,Female,1969-10-19,Dhangadhi,Sudurpashchim,Nepal,9832954976,suresh.tamang7@mailbank.com,Doctor,3931746.25,731,Verified,2015-09-28,High
+8,Amit,Chaudhary,Female,1985-07-07,Janakpur,Madhesh,Nepal,9833500073,amit.chaudhary8@mailbank.com,Retired,2176632.68,767,Verified,2016-02-06,Medium
+9,Arjun,Bhandari,Male,1960-06-11,Janakpur,Madhesh,Nepal,9830777399,arjun.bhandari9@mailbank.com,Driver,2503343.85,756,Verified,2022-08-27,Medium
+10,Sita,Maharjan,Female,1970-01-28,Nepalgunj,Lumbini,Nepal,9817858165,sita.maharjan10@mailbank.com,Bank Officer,416996.77,594,Verified,2019-07-22,Medium
+11,Kavita,KC,Female,1962-03-25,,,Nepal,9840144456,kavita.kc11@mailbank.com,Student,2388748.43,440,Pending,2026-05-05,Medium
+12,Indira,Lama,Female,1989-02-17,Biratnagar,Koshi,Nepal,9820128130,indira.lama12@mailbank.com,Engineer,888395.27,537,Verified,2014-04-09,Medium
+13,Bidya,Pandey,Male,1978-07-28,Bharatpur,Bagmati,Nepal,9810274717,bidya.pandey13@mailbank.com,Doctor,1864164.93,678,Expired,2021-02-23,Low
+14,Pramod,Malla,Male,1995-12-20,Damak,Koshi,Nepal,9847532091,pramod.malla14@mailbank.com,Student,1780239.91,703,Verified,2024-10-19,Medium
+15,Gita,Karki,Male,1973-09-23,Butwal,Lumbini,Nepal,9820891982,gita.karki15@mailbank.com,Engineer,1547015.68,353,Verified,2014-01-02,High
+16,Sunita,Dahal,Male,1987-08-15,Nepalgunj,Lumbini,Nepal,9811711335,sunita.dahal16@mailbank.com,Engineer,3694816.16,685,Verified,2019-08-29,Medium
+17,Sagar,Khadka,Female,1966-01-08,Pokhara,Gandaki,Nepal,9842753692,sagar.khadka17@mailbank.com,Bank Officer,2111188.32,619,Verified,2017-03-26,Low
+18,Bina,Basnet,Female,1997-12-09,Bhaktapur,Bagmati,Nepal,9820833961,bina.basnet18@mailbank.com,Software Developer,272844.8,840,Verified,2017-04-15,High
+19,Ganesh,Sharma,Female,1963-03-02,Janakpur,Madhesh,Nepal,9827523144,ganesh.sharma19@mailbank.com,Software Developer,1654133.16,471,Verified,2018-12-31,High
+20,Vikram,Subedi,Female,1975-01-04,Nepalgunj,Lumbini,Nepal,9823096028,vikram.subedi20@mailbank.com,Nurse,1142338.45,710,Verified,2018-06-26,High
+21,Meera,Khadka,Male,1957-07-04,Dhangadhi,Sudurpashchim,Nepal,9828751460,,Bank Officer,1221880.94,652,Pending,2021-11-03,Medium
+22,Anita,Bhattarai,Male,1975-05-09,Butwal,Lumbini,Nepal,9823200727,anita.bhattarai22@mailbank.com,Farmer,1001580.92,301,Pending,2021-09-19,Low
+23,Bidya,Acharya,Male,1989-11-09,Dhangadhi,Sudurpashchim,Nepal,9823376098,bidya.acharya23@mailbank.com,Bank Officer,3753824.24,744,Verified,2015-12-12,Medium
+24,Poonam,Magar,Male,1969-04-02,Lalitpur,Bagmati,Nepal,9818525400,poonam.magar24@mailbank.com,Teacher,787625.82,776,Verified,2024-08-21,Medium
+25,Sunita,Dahal,Male,1956-12-02,Kathmandu,Bagmati,Nepal,9816896915,sunita.dahal25@mailbank.com,Software Developer,3192974.84,442,Pending,2018-05-15,Low
+26,Sita,Adhikari,Male,1981-04-13,Hetauda,Bagmati,Nepal,9826142325,sita.adhikari26@mailbank.com,Nurse,2537477.42,565,Expired,2023-05-26,Low
+27,Gita,KC,Female,1996-02-08,Itahari,Koshi,Nepal,9849147873,gita.kc27@mailbank.com,Accountant,3815273.03,730,Expired,2016-12-07,High
+28,Sunita,Koirala,Male,1994-06-27,Dhangadhi,Sudurpashchim,Nepal,9822288162,sunita.koirala28@mailbank.com,Retired,195808.58,453,Verified,2017-03-05,Medium
+29,Kalpana,Ghimire,Male,2004-12-03,Kathmandu,Bagmati,Nepal,9831876291,kalpana.ghimire29@mailbank.com,Driver,2263761.83,868,Pending,2016-05-19,High
+30,Gita,Bhattarai,Male,1979-11-05,Kathmandu,Bagmati,Nepal,9816559574,gita.bhattarai30@mailbank.com,Software Developer,1997747.23,328,Verified,2023-12-11,Medium
+31,Kalpana,Koirala,Male,1979-11-13,Butwal,Lumbini,Nepal,,kalpana.koirala31@mailbank.com,Software Developer,3425595.81,819,Verified,2025-09-26,Medium
+32,Devi,Dahal,Male,1995-02-24,Lalitpur,Bagmati,Nepal,9837960039,devi.dahal32@mailbank.com,Engineer,1757304.8,623,Verified,2019-05-26,Medium
+33,Suresh,Karki,Female,1965-12-23,Damak,Koshi,Nepal,9820364737,suresh.karki33@mailbank.com,Shopkeeper,2766701.16,674,Verified,2019-09-05,Low
+34,Poonam,Bhattarai,Male,1990-09-24,Damak,Koshi,Nepal,9842699517,poonam.bhattarai34@mailbank.com,Doctor,4159283.25,529,Verified,2023-09-06,High
+35,Kavita,Basnet,Female,1972-07-24,Birgunj,Madhesh,Nepal,9831375889,kavita.basnet35@mailbank.com,Engineer,3083046.36,319,Verified,2026-06-05,Medium
+36,Sanjay,Bhandari,Male,1989-06-25,Birgunj,Madhesh,Nepal,9844724398,sanjay.bhandari36@mailbank.com,Retired,1367725.53,365,Verified,2019-02-16,Low
+37,Anita,Adhikari,Female,1958-07-21,Damak,Koshi,Nepal,9822183707,anita.adhikari37@mailbank.com,Government Employee,3218221.72,732,Verified,2023-02-08,Low
+38,Vikram,KC,Female,1984-05-04,Pokhara,Gandaki,Nepal,9828727554,vikram.kc38@mailbank.com,Teacher,3394341.96,487,Pending,2015-08-17,Medium
+39,Sita,Neupane,Male,1978-05-17,Pokhara,Gandaki,Nepal,9824925547,sita.neupane39@mailbank.com,Engineer,1243093,424,Pending,2014-04-05,Medium
+40,Priya,Lama,Female,1966-08-05,Kathmandu,Bagmati,Nepal,9845360668,priya.lama40@mailbank.com,Shopkeeper,1138513.4,412,Verified,2019-11-16,Low
+41,Kamala,Karki,Female,1982-05-13,Hetauda,Bagmati,Nepal,9823815805,kamala.karki41@mailbank.com,Government Employee,1971661.23,482,Verified,2021-10-13,Low
+42,Ashok,Shrestha,Male,1956-08-27,Janakpur,Madhesh,Nepal,9843933864,ashok.shrestha42@mailbank.com,Software Developer,4111767.54,826,Pending,2019-07-06,Medium
+43,Bikash,Acharya,Female,1999-05-30,Hetauda,Bagmati,Nepal,9836379559,bikash.acharya43@mailbank.com,Software Developer,1417287.86,520,Verified,2021-09-08,Low
+44,Bidya,Rana,Male,1991-04-23,Birgunj,Madhesh,Nepal,9813649952,bidya.rana44@mailbank.com,Accountant,701870.7,372,Verified,2023-08-30,Low
+45,Gita,Gurung,Female,2000-05-22,Itahari,Koshi,Nepal,9828920222,gita.gurung45@mailbank.com,Retired,1153695.99,600,Verified,2024-04-21,Low
+46,Rajesh,Adhikari,Female,1955-04-29,Bharatpur,Bagmati,Nepal,9834437112,rajesh.adhikari46@mailbank.com,Farmer,4089944.45,860,Verified,2019-06-26,Low
+47,Yogesh,Poudel,Male,1986-12-28,Lalitpur,Bagmati,Nepal,9810071733,yogesh.poudel47@mailbank.com,Farmer,1714138.96,786,Verified,2025-04-11,Low
+48,Puja,Koirala,Male,1963-02-25,Bharatpur,Bagmati,Nepal,9816023248,puja.koirala48@mailbank.com,Doctor,1786034.9,342,Pending,2014-07-04,Medium
+49,Sabina,Neupane,Male,1962-07-31,Nepalgunj,Lumbini,Nepal,9845513309,sabina.neupane49@mailbank.com,Accountant,3197173.33,698,Verified,2025-01-31,Low
+50,Manoj,Ghimire,Male,1958-12-05,Bhaktapur,Bagmati,Nepal,9844425586,manoj.ghimire50@mailbank.com,Driver,1905563.7,817,Verified,2025-09-30,High
+51,Amit,Yadav,Male,1975-08-18,Pokhara,Gandaki,Nepal,9812091147,amit.yadav51@mailbank.com,Teacher,715034.66,669,Verified,2022-06-13,Medium
+52,Priya,Shrestha,Male,2002-09-05,Itahari,Koshi,Nepal,9826412122,priya.shrestha52@mailbank.com,Bank Officer,1240447.44,767,Verified,2025-04-13,High
+53,Anita,Acharya,Male,1997-07-06,Bharatpur,Bagmati,Nepal,9814996254,anita.acharya53@mailbank.com,Accountant,1247544.05,510,Verified,2024-04-29,Medium
+54,Santosh,Magar,Male,1997-12-22,Damak,Koshi,Nepal,9829281662,santosh.magar54@mailbank.com,Nurse,367924.9,503,Verified,2017-04-22,Medium
+55,Ashok,Neupane,Female,2005-12-08,Lalitpur,Bagmati,Nepal,9810836794,ashok.neupane55@mailbank.com,Bank Officer,423857.28,575,Verified,2018-11-19,Medium
+56,Manoj,Bhandari,Female,1996-09-08,Butwal,Lumbini,Nepal,9841295490,manoj.bhandari56@mailbank.com,Nurse,656381.51,862,Verified,2020-12-28,Low
+57,Devi,Joshi,Male,1980-12-24,Butwal,Lumbini,Nepal,9815131428,devi.joshi57@mailbank.com,Accountant,2216606.43,760,Verified,2022-09-05,Low
+58,Ganesh,KC,Male,1961-09-10,Nepalgunj,Lumbini,Nepal,9816060138,ganesh.kc58@mailbank.com,Doctor,3184894.44,568,Verified,2016-12-22,High
+59,Rabin,Neupane,Female,1965-02-09,Janakpur,Madhesh,Nepal,9834507387,rabin.neupane59@mailbank.com,Business Owner,2181509.57,797,Pending,2014-07-23,Low
+60,Ram,Joshi,Female,1991-05-16,Bharatpur,Bagmati,Nepal,9819442701,ram.joshi60@mailbank.com,Student,1562719.79,623,Verified,2021-06-07,Low
+61,Krishna,Subedi,Female,1990-09-24,Pokhara,Gandaki,Nepal,9823135965,krishna.subedi61@mailbank.com,Shopkeeper,227120.9,596,Verified,2022-05-08,Low
+62,Kavita,Magar,Male,1987-05-12,Damak,Koshi,Nepal,9838726133,kavita.magar62@mailbank.com,Nurse,1286124.12,349,Verified,2016-04-13,Low
+63,Bidya,Acharya,Female,1968-05-11,Biratnagar,Koshi,Nepal,9827832705,bidya.acharya63@mailbank.com,Student,2234071.21,494,Verified,2023-08-06,Low
+64,Anjali,Subedi,Female,2004-09-18,Hetauda,Bagmati,Nepal,9823652346,anjali.subedi64@mailbank.com,Shopkeeper,503919.13,720,Pending,2017-02-09,Medium
+65,Meera,Shrestha,Male,1970-04-27,Butwal,Lumbini,Nepal,9837841229,meera.shrestha65@mailbank.com,Farmer,1312619.08,561,Verified,2023-02-10,Low
+66,Sabina,Joshi,Female,1965-09-28,Lalitpur,Bagmati,Nepal,9820848615,sabina.joshi66@mailbank.com,Engineer,1015647.53,809,Expired,2018-12-08,Medium
+67,Ganesh,Basnet,Female,1993-05-06,Lalitpur,Bagmati,Nepal,9846761249,ganesh.basnet67@mailbank.com,Business Owner,1161224.24,478,Verified,2026-06-20,Low
+68,Krishna,Bhattarai,Female,1978-03-06,Dhangadhi,Sudurpashchim,Nepal,9848226399,krishna.bhattarai68@mailbank.com,Business Owner,3746750.87,722,Pending,2023-04-14,High
+69,Sarita,Magar,Female,1985-05-05,Dhangadhi,Sudurpashchim,Nepal,9814164743,sarita.magar69@mailbank.com,Bank Officer,1295615.71,668,Verified,2025-04-16,High
+70,Ravi,Chaudhary,Male,1963-04-23,Bharatpur,Bagmati,Nepal,9826673442,ravi.chaudhary70@mailbank.com,Student,1787023.69,756,Pending,2020-12-31,Low
+71,Prakash,Shrestha,Female,1997-06-17,Nepalgunj,Lumbini,Nepal,9842871556,prakash.shrestha71@mailbank.com,Teacher,474014.29,840,Pending,2024-01-26,Low
+72,Naveen,Tamang,Male,1968-11-06,Lalitpur,Bagmati,Nepal,9845055362,naveen.tamang72@mailbank.com,Driver,617739.46,768,Verified,2026-05-15,Low
+73,Ram,Chaudhary,Male,1975-11-13,Nepalgunj,Lumbini,Nepal,9812522738,ram.chaudhary73@mailbank.com,Driver,3054386.94,431,Verified,2025-11-06,Medium
+74,Pramod,Subedi,Male,1963-12-03,Pokhara,Gandaki,Nepal,9830156099,pramod.subedi74@mailbank.com,Software Developer,3973032.64,496,Pending,2019-11-08,Low
+75,Naveen,Regmi,Male,1955-12-09,Hetauda,Bagmati,Nepal,9830234751,naveen.regmi75@mailbank.com,Bank Officer,1299986.67,623,Verified,2024-08-29,High
+76,Puja,Dahal,Male,1957-08-17,Dharan,Koshi,Nepal,9830629119,puja.dahal76@mailbank.com,Teacher,267585.28,810,Pending,2015-10-27,Medium
+77,Nabin,Acharya,Female,1988-03-19,Biratnagar,Koshi,Nepal,9843080875,nabin.acharya77@mailbank.com,Teacher,2977207.6,730,Verified,2022-11-21,Low
+78,Ram,Chaudhary,Female,2000-04-17,Pokhara,Gandaki,Nepal,9823771986,ram.chaudhary78@mailbank.com,Bank Officer,4078832.06,619,Verified,2019-03-06,Medium
+79,Nabin,Adhikari,Female,1964-10-11,Nepalgunj,Lumbini,Nepal,9843270207,nabin.adhikari79@mailbank.com,Retired,932999.12,528,Pending,2023-05-10,Low
+80,Sagar,Rai,Female,1959-11-17,Biratnagar,Koshi,Nepal,9811585696,sagar.rai80@mailbank.com,Retired,750482.53,353,Verified,2018-02-17,Medium
+81,Sanjay,Rana,Female,1965-02-26,Pokhara,Gandaki,Nepal,9821115492,sanjay.rana81@mailbank.com,Farmer,946547.76,837,Pending,2014-09-19,Medium
+82,Bipin,Ghimire,Female,1988-07-17,Birgunj,Madhesh,Nepal,9839691320,bipin.ghimire82@mailbank.com,Doctor,618009.69,380,Verified,2015-10-24,Medium
+83,Ramesh,Rana,Male,2005-05-05,Dhangadhi,Sudurpashchim,Nepal,9823918541,ramesh.rana83@mailbank.com,Student,1613649.47,616,Pending,2015-12-20,Low
+84,Indira,Joshi,Male,1988-06-09,Hetauda,Bagmati,Nepal,9839953873,indira.joshi84@mailbank.com,Business Owner,1479702.93,785,Verified,2023-03-20,Low
+85,Anjali,Neupane,Female,1958-08-25,Dharan,Koshi,Nepal,9812339038,anjali.neupane85@mailbank.com,Bank Officer,431571.37,363,Verified,2018-05-16,Low
+86,Champa,Regmi,Female,1987-07-25,Bharatpur,Bagmati,Nepal,9832479517,champa.regmi86@mailbank.com,Retired,355213.96,624,Verified,2020-09-02,Low
+87,Milan,Subedi,Male,1957-03-05,Bhaktapur,Bagmati,Nepal,9825694499,milan.subedi87@mailbank.com,Engineer,2090260.01,776,Pending,2019-08-19,Medium
+88,Rabin,Joshi,Male,1999-07-19,Lalitpur,Bagmati,Nepal,9810584194,rabin.joshi88@mailbank.com,Nurse,3922846.07,610,Verified,2019-04-19,Medium
+89,Muna,Basnet,Female,1987-06-19,Dhangadhi,Sudurpashchim,Nepal,9849977890,muna.basnet89@mailbank.com,Engineer,2237776.82,701,Verified,2019-07-19,Medium
+90,Suresh,Neupane,Male,1998-03-20,Hetauda,Bagmati,Nepal,9846548602,suresh.neupane90@mailbank.com,Farmer,825983.39,736,Verified,2015-08-15,Medium
+91,Kalpana,Gurung,Male,1963-08-26,Dharan,Koshi,Nepal,9843452108,kalpana.gurung91@mailbank.com,Shopkeeper,4087908.94,477,Verified,2016-12-24,Medium
+92,Poonam,Regmi,Male,2003-04-26,Bhaktapur,Bagmati,Nepal,9818131227,poonam.regmi92@mailbank.com,Nurse,3560302.14,600,Verified,2020-01-02,Medium
+93,Ashok,Ghimire,Female,1972-11-14,Butwal,Lumbini,Nepal,9826604687,ashok.ghimire93@mailbank.com,Doctor,1166267.99,457,Verified,2018-03-23,Medium
+94,Suresh,Magar,Female,1977-01-24,Hetauda,Bagmati,Nepal,9845319982,suresh.magar94@mailbank.com,Business Owner,2791555.44,402,Pending,2014-10-31,Low
+95,Ram,Joshi,Male,1995-03-21,Damak,Koshi,Nepal,9835090413,ram.joshi95@mailbank.com,Teacher,3705066.37,538,Verified,2015-02-17,Low
+96,Sagar,Yadav,Male,1961-09-27,Birgunj,Madhesh,Nepal,9844404634,sagar.yadav96@mailbank.com,Accountant,894591.19,566,Verified,2016-05-16,High
+97,Indira,Regmi,Female,1974-07-11,Kathmandu,Bagmati,Nepal,9834743612,indira.regmi97@mailbank.com,Farmer,748305.33,508,Verified,2014-11-10,High
+98,Milan,Neupane,Male,1956-01-08,Bhaktapur,Bagmati,Nepal,9831961324,milan.neupane98@mailbank.com,Student,2906845.36,489,Expired,2021-01-01,Low
+99,Sarita,Shrestha,Female,2004-03-02,Butwal,Lumbini,Nepal,9814246050,sarita.shrestha99@mailbank.com,Student,587578.83,704,Expired,2017-06-20,High
+100,Anita,Neupane,Male,1990-09-08,Janakpur,Madhesh,Nepal,9828197700,anita.neupane100@mailbank.com,Student,4152719.73,614,Pending,2015-02-25,Medium
+101,Bina,Pandey,Female,1992-02-24,Dharan,Koshi,Nepal,9811222265,bina.pandey101@mailbank.com,Accountant,3261983.73,672,Verified,2022-10-06,Medium
+102,Sarita,Sharma,Female,1969-01-17,Dharan,Koshi,Nepal,9817619492,sarita.sharma102@mailbank.com,Accountant,543761.84,891,Verified,2024-05-03,Low
+103,Prakash,Sharma,Male,2004-06-25,Lalitpur,Bagmati,Nepal,9836623371,prakash.sharma103@mailbank.com,Engineer,2482915.32,679,Expired,2017-11-07,Low
+104,Deepak,Poudel,Male,2001-10-03,Lalitpur,Bagmati,Nepal,9814502786,deepak.poudel104@mailbank.com,Engineer,1722613.7,502,Verified,2016-11-03,Low
+105,Ganesh,Joshi,Female,1959-10-15,Nepalgunj,Lumbini,Nepal,9836031205,ganesh.joshi105@mailbank.com,Engineer,3814967.81,464,Verified,2023-01-27,High
+106,Santosh,Karki,Female,1971-06-01,Nepalgunj,Lumbini,Nepal,9824638918,santosh.karki106@mailbank.com,Teacher,1786977.24,830,Verified,2022-08-09,Medium
+107,Mina,Rai,Male,1972-04-11,Kathmandu,Bagmati,Nepal,9847738217,mina.rai107@mailbank.com,Accountant,3224994.24,339,Verified,2016-08-22,Medium
+108,Sagar,Maharjan,Female,1992-09-07,Bharatpur,Bagmati,Nepal,9849099279,sagar.maharjan108@mailbank.com,Business Owner,1891474.17,676,Pending,2025-04-18,Medium
+109,Kamala,Sharma,Male,1998-11-30,Butwal,Lumbini,Nepal,9825787422,kamala.sharma109@mailbank.com,Bank Officer,3249532.08,769,Verified,2024-08-12,Medium
+110,Bikash,Gurung,Male,1987-03-03,Dharan,Koshi,Nepal,9834517036,bikash.gurung110@mailbank.com,Engineer,3405173.65,816,Expired,2014-11-30,Low
+111,Ravi,Rai,Male,1983-02-23,Dhangadhi,Sudurpashchim,Nepal,9844324958,ravi.rai111@mailbank.com,Engineer,398145.02,816,Pending,2017-01-20,Low
+112,Santosh,Gurung,Male,1972-05-18,Lalitpur,Bagmati,Nepal,9843008834,santosh.gurung112@mailbank.com,Government Employee,4025689.94,469,Verified,2015-06-21,Medium
+113,Kalpana,Subedi,Female,1969-03-30,Birgunj,Madhesh,Nepal,9828454440,kalpana.subedi113@mailbank.com,Accountant,2014739.41,560,Expired,2024-10-08,Low
+114,Rita,Adhikari,Male,1983-08-17,Birgunj,Madhesh,Nepal,9812471824,rita.adhikari114@mailbank.com,Business Owner,912027.48,465,Verified,2021-05-09,Medium
+115,Rajesh,Chaudhary,Female,1965-04-28,Dhangadhi,Sudurpashchim,Nepal,9845616099,rajesh.chaudhary115@mailbank.com,Teacher,2738001.07,668,Pending,2026-06-15,High
+116,Rita,Bhandari,Male,1977-08-11,Hetauda,Bagmati,Nepal,9836458099,rita.bhandari116@mailbank.com,Shopkeeper,3386635.83,571,Pending,2022-04-11,High
+117,Sunita,Khadka,Female,1962-04-20,Butwal,Lumbini,Nepal,9825438213,sunita.khadka117@mailbank.com,Doctor,2653802.06,349,Verified,2025-07-29,Medium
+118,Sabina,Neupane,Female,1955-02-28,Janakpur,Madhesh,Nepal,9812267820,sabina.neupane118@mailbank.com,Business Owner,780446.32,742,Pending,2025-07-01,Medium
+119,Champa,Shrestha,Male,1998-10-25,Biratnagar,Koshi,Nepal,9813059070,champa.shrestha119@mailbank.com,Teacher,398659.98,880,Verified,2020-10-24,Low
+120,Sneha,Khadka,Male,1992-01-27,Nepalgunj,Lumbini,Nepal,9830210168,sneha.khadka120@mailbank.com,Retired,717581.37,675,Expired,2024-08-26,Low
+121,Prakash,Sharma,Male,1968-05-24,Butwal,Lumbini,Nepal,9816429342,prakash.sharma121@mailbank.com,Engineer,2745604.59,576,Pending,2019-12-05,Low
+122,Gita,Neupane,Female,2006-11-24,Butwal,Lumbini,Nepal,9844734373,gita.neupane122@mailbank.com,Shopkeeper,2161263.68,469,Verified,2014-12-27,Low
+123,Vikram,Sharma,Female,1971-08-28,Biratnagar,Koshi,Nepal,9820684846,vikram.sharma123@mailbank.com,Teacher,3845202.69,407,Verified,2026-05-11,Low
+124,Sunita,Lama,Male,2001-06-30,Nepalgunj,Lumbini,Nepal,9844020718,sunita.lama124@mailbank.com,Driver,2759111.27,478,Expired,2020-12-09,Low
+125,Sabina,Neupane,Male,1997-11-16,Janakpur,Madhesh,Nepal,9846131838,sabina.neupane125@mailbank.com,Teacher,1688138.14,747,Pending,2015-10-22,Medium
+126,Kamala,Bhattarai,Male,1978-06-15,Biratnagar,Koshi,Nepal,9812605002,kamala.bhattarai126@mailbank.com,Engineer,1528774.55,569,Verified,2019-12-19,High
+127,Sarala,Lama,Female,1981-07-09,Itahari,Koshi,Nepal,9824562323,sarala.lama127@mailbank.com,Engineer,3717781.71,315,Verified,2019-11-03,Low
+128,Bidya,Ghimire,Male,1969-04-13,Janakpur,Madhesh,Nepal,9831935968,bidya.ghimire128@mailbank.com,Business Owner,3718262.49,636,Expired,2019-05-14,Medium
+129,Ganesh,Malla,Female,1997-05-11,Bhaktapur,Bagmati,Nepal,9845609190,ganesh.malla129@mailbank.com,Shopkeeper,205654.48,327,Pending,2019-03-31,High
+130,Yogesh,Poudel,Male,1990-02-16,Nepalgunj,Lumbini,Nepal,9849280985,yogesh.poudel130@mailbank.com,Engineer,2452122.39,475,Verified,2014-09-27,Low
+131,Mina,Tamang,Male,1985-12-09,Lalitpur,Bagmati,Nepal,9811928214,mina.tamang131@mailbank.com,Teacher,347430.75,343,Verified,2015-01-18,Low
+132,Santosh,Pandey,Female,1972-11-18,Bhaktapur,Bagmati,Nepal,9845829029,santosh.pandey132@mailbank.com,Driver,445112.64,693,Verified,2019-07-13,Low
+133,Sarita,Tamang,Male,1958-02-02,Bhaktapur,Bagmati,Nepal,9815869993,sarita.tamang133@mailbank.com,Accountant,3200734.23,594,Pending,2016-03-29,Low
+134,Bikash,Chaudhary,Male,1981-06-01,Birgunj,Madhesh,Nepal,9832583193,bikash.chaudhary134@mailbank.com,Student,1229861.65,659,Verified,2020-05-04,Low
+135,Indira,Subedi,Female,1983-10-13,Dhangadhi,Sudurpashchim,Nepal,9843805239,indira.subedi135@mailbank.com,Bank Officer,3602536.85,331,Pending,2014-09-13,Medium
+136,Sneha,Subedi,Male,1986-02-10,Butwal,Lumbini,Nepal,9813229083,sneha.subedi136@mailbank.com,Software Developer,2455711.65,393,Expired,2020-06-10,Low
+137,Nisha,Sharma,Male,1980-11-13,Dhangadhi,Sudurpashchim,Nepal,9813621497,nisha.sharma137@mailbank.com,Teacher,1578170.76,397,Pending,2018-02-20,Medium
+138,Rita,Khadka,Female,2006-11-09,Lalitpur,Bagmati,Nepal,9829040781,rita.khadka138@mailbank.com,Accountant,1043151.65,537,Pending,2017-09-20,Low
+139,Ravi,Subedi,Male,1998-12-26,Dhangadhi,Sudurpashchim,Nepal,9847665161,ravi.subedi139@mailbank.com,Nurse,600322.78,634,Verified,2016-02-19,Medium
+140,Devi,Magar,Male,1992-11-14,Damak,Koshi,Nepal,9811689400,devi.magar140@mailbank.com,Farmer,1008589.47,569,Pending,2026-03-23,High
+141,Rajesh,Magar,Male,1996-05-08,Lalitpur,Bagmati,Nepal,9845671353,rajesh.magar141@mailbank.com,Retired,3212992.24,334,Verified,2021-04-30,High
+142,Sunita,Malla,Female,2004-09-04,Janakpur,Madhesh,Nepal,9831698571,sunita.malla142@mailbank.com,Doctor,2041891.68,563,Expired,2019-03-08,Low
+143,Radha,Maharjan,Male,2000-07-19,Biratnagar,Koshi,Nepal,9827950465,radha.maharjan143@mailbank.com,Government Employee,3214034.66,458,Verified,2019-07-22,Medium
+144,Sagar,Koirala,Female,1969-06-09,Biratnagar,Koshi,Nepal,9832016745,sagar.koirala144@mailbank.com,Business Owner,1219926.43,404,Verified,2016-04-12,Low
+145,Bishnu,Rai,Male,1982-02-07,Janakpur,Madhesh,Nepal,9829958471,bishnu.rai145@mailbank.com,Student,1280758.64,411,Verified,2020-04-19,Low
+146,Yogesh,Magar,Female,1958-01-16,Kathmandu,Bagmati,Nepal,9836777854,yogesh.magar146@mailbank.com,Accountant,3359837.27,527,Expired,2020-08-23,Medium
+147,Sita,Rai,Female,1991-04-23,Kathmandu,Bagmati,Nepal,9826259420,sita.rai147@mailbank.com,Accountant,1908714.04,887,Expired,2023-06-13,Low
+148,Bipin,Ghimire,Male,1971-04-14,Itahari,Koshi,Nepal,9818335960,bipin.ghimire148@mailbank.com,Bank Officer,1918765.97,566,Verified,2023-05-31,Low
+149,Naveen,Magar,Male,1977-06-07,Bhaktapur,Bagmati,Nepal,9838425962,naveen.magar149@mailbank.com,Bank Officer,2009881.78,719,Expired,2018-02-08,Medium
+150,Sushila,Sharma,Female,1998-12-12,Damak,Koshi,Nepal,9817139042,sushila.sharma150@mailbank.com,Teacher,1189916.89,523,Verified,2018-06-25,High
+151,Deepak,Tamang,Female,2003-07-16,Biratnagar,Koshi,Nepal,9841926070,deepak.tamang151@mailbank.com,Software Developer,244747.94,678,Expired,2021-09-09,Medium
+152,Bina,Maharjan,Male,1971-06-28,Dharan,Koshi,Nepal,9844480003,bina.maharjan152@mailbank.com,Nurse,3929421.93,664,Verified,2019-08-31,Medium
+153,Bishnu,Magar,Male,1956-03-12,Pokhara,Gandaki,Nepal,9838090595,bishnu.magar153@mailbank.com,Student,2706830.39,660,Expired,2019-12-13,Low
+154,Nabin,Poudel,Female,2002-04-15,Biratnagar,Koshi,Nepal,9836304175,nabin.poudel154@mailbank.com,Bank Officer,1032291.36,432,Verified,2018-05-02,Medium
+155,Sushma,Dahal,Male,1968-02-14,Birgunj,Madhesh,Nepal,9837735186,sushma.dahal155@mailbank.com,Bank Officer,4184477.7,861,Verified,2024-07-12,Medium
+156,Naveen,Malla,Male,1978-12-28,Janakpur,Madhesh,Nepal,9835242898,naveen.malla156@mailbank.com,Driver,1199267.62,736,Verified,2024-10-20,Low
+157,Anjali,Ghimire,Female,1987-02-12,Biratnagar,Koshi,Nepal,9830254815,anjali.ghimire157@mailbank.com,Farmer,2107791.24,738,Expired,2015-12-01,Medium
+158,Sunita,KC,Female,1989-07-20,Kathmandu,Bagmati,Nepal,9815723039,sunita.kc158@mailbank.com,Accountant,2449648.98,632,Verified,2025-11-26,Medium
+159,Ravi,Pandey,Male,1956-01-12,Biratnagar,Koshi,Nepal,9814831810,ravi.pandey159@mailbank.com,Driver,1357829.39,403,Expired,2017-03-15,Low
+160,Kamala,Subedi,Female,1986-01-30,Dhangadhi,Sudurpashchim,Nepal,9820245638,kamala.subedi160@mailbank.com,Business Owner,3814430.83,847,Verified,2016-01-11,High
+161,Naveen,Neupane,Female,1972-09-15,Butwal,Lumbini,Nepal,9824300950,naveen.neupane161@mailbank.com,Software Developer,496032.42,749,Verified,2026-06-14,Low
+162,Ashok,Lama,Male,1967-07-02,Butwal,Lumbini,Nepal,9843089818,ashok.lama162@mailbank.com,Software Developer,414986.98,778,Verified,2025-01-08,Low
+163,Meera,Thapa,Male,1969-05-21,Bhaktapur,Bagmati,Nepal,9831520739,meera.thapa163@mailbank.com,Bank Officer,2977459.94,809,Verified,2024-06-12,Medium
+164,Nisha,Lama,Male,1971-03-13,Itahari,Koshi,Nepal,9834184372,nisha.lama164@mailbank.com,Driver,2779016.62,321,Expired,2015-01-11,Medium
+165,Anjali,Tamang,Female,1998-06-25,Dhangadhi,Sudurpashchim,Nepal,9819696517,anjali.tamang165@mailbank.com,Teacher,1037714.52,725,Verified,2021-08-05,Low
+166,Muna,Acharya,Female,1985-08-15,Butwal,Lumbini,Nepal,9845268232,muna.acharya166@mailbank.com,Software Developer,3277709.05,515,Verified,2023-10-06,Medium
+167,Nisha,Adhikari,Male,1980-12-09,Bharatpur,Bagmati,Nepal,9833835626,nisha.adhikari167@mailbank.com,Accountant,2164795.75,641,Expired,2020-02-04,High
+168,Deepak,Karki,Female,1965-07-31,Birgunj,Madhesh,Nepal,9822905622,deepak.karki168@mailbank.com,Farmer,3046987.67,430,Expired,2015-12-19,Low
+169,Kavita,Ghimire,Female,2003-12-06,Nepalgunj,Lumbini,Nepal,9813335282,kavita.ghimire169@mailbank.com,Student,1387633.72,306,Verified,2018-04-05,Medium
+170,Sagar,Subedi,Male,1999-12-07,Damak,Koshi,Nepal,9846483722,sagar.subedi170@mailbank.com,Retired,1691697.73,450,Expired,2015-11-11,Low
+171,Hari,Acharya,Female,1970-08-08,Pokhara,Gandaki,Nepal,9822166713,hari.acharya171@mailbank.com,Accountant,328650.13,403,Verified,2022-04-10,Low
+172,Naveen,Poudel,Female,1982-02-05,Lalitpur,Bagmati,Nepal,9838305492,naveen.poudel172@mailbank.com,Teacher,1460277.89,741,Expired,2015-03-24,Medium
+173,Amit,Koirala,Male,1965-08-30,Dhangadhi,Sudurpashchim,Nepal,9838257628,amit.koirala173@mailbank.com,Retired,2976762.81,714,Pending,2015-07-05,Low
+174,Sarala,Magar,Male,1997-08-27,Dhangadhi,Sudurpashchim,Nepal,9837676842,sarala.magar174@mailbank.com,Software Developer,590213.65,783,Verified,2017-05-28,Low
+175,Nisha,Sharma,Male,1965-11-30,Bhaktapur,Bagmati,Nepal,9815914927,nisha.sharma175@mailbank.com,Business Owner,3675587.58,432,Pending,2014-05-26,Medium
+176,Milan,Pandey,Male,1995-06-11,Janakpur,Madhesh,Nepal,9822576894,milan.pandey176@mailbank.com,Teacher,1650812.21,448,Verified,2020-07-29,High
+177,Indira,Joshi,Female,1977-10-16,Damak,Koshi,Nepal,9813534010,indira.joshi177@mailbank.com,Shopkeeper,308514.29,362,Verified,2015-10-15,Medium
+178,Sabina,Poudel,Male,1998-08-19,Nepalgunj,Lumbini,Nepal,9814011702,sabina.poudel178@mailbank.com,Farmer,1657613.63,888,Pending,2024-07-15,Low
+179,Sunita,Chaudhary,Male,1987-08-04,Itahari,Koshi,Nepal,9821007578,sunita.chaudhary179@mailbank.com,Driver,3403431.35,788,Pending,2024-02-26,Medium
+180,Naveen,Subedi,Female,1981-03-25,Bharatpur,Bagmati,Nepal,9814069334,naveen.subedi180@mailbank.com,Retired,4095283.81,640,Expired,2014-05-07,Low
+181,Sagar,Yadav,Female,1993-06-13,Damak,Koshi,Nepal,9826516231,sagar.yadav181@mailbank.com,Student,1737174.13,685,Expired,2019-04-04,Medium
+182,Manoj,Bhandari,Male,1983-11-05,Bharatpur,Bagmati,Nepal,9827986719,manoj.bhandari182@mailbank.com,Student,812267.38,343,Verified,2017-02-26,High
+183,Sunita,Adhikari,Female,1986-02-12,Hetauda,Bagmati,Nepal,9815708518,sunita.adhikari183@mailbank.com,Software Developer,2405770.92,690,Verified,2019-04-02,Medium
+184,Sagar,Shrestha,Female,1996-09-29,Janakpur,Madhesh,Nepal,9823863758,sagar.shrestha184@mailbank.com,Government Employee,2537281.13,309,Pending,2024-04-24,High
+185,Anita,Dahal,Female,1960-08-14,Biratnagar,Koshi,Nepal,9836721846,anita.dahal185@mailbank.com,Retired,2274579.24,565,Expired,2021-03-14,Medium
+186,Rohit,Pandey,Male,1971-12-21,Biratnagar,Koshi,Nepal,9822905976,rohit.pandey186@mailbank.com,Engineer,906386.96,596,Verified,2022-01-19,Medium
+187,Sushila,Koirala,Male,1977-02-04,Kathmandu,Bagmati,Nepal,9843102696,sushila.koirala187@mailbank.com,Farmer,3662814.68,680,Pending,2015-11-01,Low
+188,Krishna,Regmi,Male,1985-12-11,Bharatpur,Bagmati,Nepal,9844860156,krishna.regmi188@mailbank.com,Retired,262691.83,334,Verified,2024-11-27,High
+189,Amit,Karki,Female,1980-02-08,Dharan,Koshi,Nepal,9816516791,amit.karki189@mailbank.com,Bank Officer,3264340.83,434,Verified,2014-11-07,Medium
+190,Dipesh,Thapa,Female,1962-07-04,Kathmandu,Bagmati,Nepal,9813422384,dipesh.thapa190@mailbank.com,Teacher,2420668.59,769,Pending,2015-06-10,High
+191,Ravi,Magar,Male,1963-01-26,Bharatpur,Bagmati,Nepal,9831388305,ravi.magar191@mailbank.com,Retired,1117495.7,391,Expired,2022-10-26,Low
+192,Sanjay,Malla,Male,1988-04-11,Biratnagar,Koshi,Nepal,9824879502,sanjay.malla192@mailbank.com,Doctor,335299.31,562,Verified,2015-05-01,High
+193,Champa,Sharma,Male,1978-02-19,Dhangadhi,Sudurpashchim,Nepal,9844449280,champa.sharma193@mailbank.com,Shopkeeper,3153074.05,795,Verified,2016-04-07,Low
+194,Krishna,Subedi,Male,1972-11-06,Itahari,Koshi,Nepal,9830051641,krishna.subedi194@mailbank.com,Retired,2557690.65,407,Pending,2021-04-07,Medium
+195,Ashok,Magar,Male,1988-08-22,Butwal,Lumbini,Nepal,9835477616,ashok.magar195@mailbank.com,Doctor,1954367.02,446,Verified,2024-06-30,Low
+196,Anjali,Shrestha,Male,1974-10-15,Pokhara,Gandaki,Nepal,9835038010,anjali.shrestha196@mailbank.com,Shopkeeper,741846.41,757,Verified,2022-08-21,Low
+197,Ravi,Gurung,Female,1985-06-25,Birgunj,Madhesh,Nepal,9825695545,ravi.gurung197@mailbank.com,Bank Officer,644753.76,674,Verified,2021-06-12,Low
+198,Bina,Shrestha,Male,1995-06-30,Hetauda,Bagmati,Nepal,9819711387,bina.shrestha198@mailbank.com,Bank Officer,3680307.04,572,Pending,2023-03-28,Low
+199,Sunita,Sharma,Female,2006-03-24,Bhaktapur,Bagmati,Nepal,9829901204,sunita.sharma199@mailbank.com,Farmer,3412660.6,566,Pending,2016-06-13,Medium
+200,Poonam,Rana,Female,1965-03-30,Lalitpur,Bagmati,Nepal,9844457559,poonam.rana200@mailbank.com,Teacher,2716623.04,516,Expired,2024-09-16,Medium
+9999,Sabina,Bhattarai,Male,1976-11-24,Pokhara,Gandaki,Nepal,9848548922,sabina.bhattarai6@mailbank.com,Government Employee,2291289.95,651,Pending,2020-06-16,High

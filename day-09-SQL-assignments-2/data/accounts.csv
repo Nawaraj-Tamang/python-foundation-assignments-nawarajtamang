@@ -1,0 +1,281 @@
+account_id,customer_id,account_type,branch,ifsc_code,currency,balance,interest_rate,open_date,close_date,status,is_joint_account
+100001,1,Checking,Dharan North,DHRN0006,NPR,179640.1,0,2023-08-29,,Active,False
+100002,2,Fixed Deposit,Bhaktapur Central,BHKT0007,NPR,757474.71,10.9,2020-10-28,,Active,False
+100003,3,Savings,Itahari Plaza,ITHR0008,NPR,102601.34,3.49,2026-04-14,,Dormant,True
+100004,3,Fixed Deposit,Lalitpur,LALI0003,NPR,84465.72,8.34,2021-04-09,,Active,False
+100005,3,Checking,Lalitpur,LALI0003,NPR,136843.8,0,2019-04-03,,Dormant,False
+100006,4,Savings,Pokhara City,PKRA0002,NPR,219389.39,5.66,2026-02-27,,Dormant,False
+100007,5,Checking,Butwal West,BTWL0005,NPR,4350.72,0,2024-09-24,,Active,False
+100008,6,Savings,Dharan North,DHRN0006,NPR,252651.41,6.03,2024-03-20,,Active,False
+100009,6,Savings,Kathmandu Main,KTMN0001,NPR,40417.94,5.33,2025-01-18,,Active,False
+100010,7,Fixed Deposit,Kathmandu Main,KTMN0001,NPR,0,10.36,2017-07-28,2021-09-25,Closed,False
+100011,8,Recurring Deposit,Pokhara City,PKRA0002,NPR,657401.46,10.17,2017-06-14,,Active,False
+100012,9,Recurring Deposit,Kathmandu Main,KTMN0001,NPR,860944.19,8.73,2024-04-15,,Active,True
+100013,9,Checking,Kathmandu Main,KTMN0001,NPR,34055.41,0,2024-01-07,,Active,False
+100014,10,Fixed Deposit,Butwal West,BTWL0005,NPR,66533.49,10.67,2025-10-12,,Active,False
+100015,11,Recurring Deposit,Biratnagar East,BRTN0004,NPR,348094.8,6.92,2026-06-30,,Active,False
+100016,12,Savings,Itahari Plaza,ITHR0008,NPR,150476.28,3.98,2025-05-04,,Dormant,True
+100017,13,Checking,Biratnagar East,BRTN0004,NPR,19677.46,0,2025-12-22,,Active,False
+100018,14,Checking,Kathmandu Main,KTMN0001,NPR,122447.42,0,2026-07-31,,Active,True
+100019,14,Recurring Deposit,Kathmandu Main,KTMN0001,NPR,390600.78,10.27,2025-10-25,,Active,False
+100020,15,Fixed Deposit,Bhaktapur Central,BHKT0007,NPR,489768.32,10.81,2015-03-16,,Active,False
+100021,15,Checking,Bhaktapur Central,BHKT0007,NPR,12496.79,0,2014-04-06,,Active,False
+100022,16,Recurring Deposit,Biratnagar East,BRTN0004,NPR,0,8.39,2025-04-26,2025-05-06,Closed,False
+100023,17,Recurring Deposit,Kathmandu Main,KTMN0001,NPR,79217.61,9.39,2026-04-22,,Active,False
+100024,17,Fixed Deposit,Kathmandu Main,KTMN0001,NPR,262993.97,8.84,2024-03-13,,Active,False
+100025,18,Savings,Butwal West,BTWL0005,NPR,104592.3,3.58,2018-07-22,,Active,True
+100026,19,Fixed Deposit,Pokhara City,PKRA0002,NPR,503756.77,7.17,2024-03-24,,Dormant,True
+100027,20,Fixed Deposit,Bhaktapur Central,BHKT0007,NPR,282995.21,9.81,2024-12-15,,Active,False
+100028,21,Checking,Bhaktapur Central,BHKT0007,NPR,125547.65,0,2022-12-20,,Dormant,False
+100029,21,Fixed Deposit,Itahari Plaza,ITHR0008,NPR,76317.99,8,2024-06-20,,Active,False
+100030,22,Recurring Deposit,Bhaktapur Central,BHKT0007,NPR,187950.32,10.78,2021-10-13,,Active,False
+100031,23,Recurring Deposit,Butwal West,BTWL0005,NPR,301178.62,9.97,2019-02-20,,Active,False
+100032,24,Fixed Deposit,Itahari Plaza,ITHR0008,NPR,489446.26,10.25,2026-06-25,,Active,False
+100033,25,Savings,Biratnagar East,BRTN0004,NPR,0,4.18,2025-12-19,2026-08-15,Closed,False
+100034,25,Checking,Biratnagar East,BRTN0004,NPR,151798.6,0,2025-04-12,,Dormant,True
+100035,26,Recurring Deposit,Butwal West,BTWL0005,NPR,790202.08,6.52,2024-02-10,,Active,True
+100036,26,Recurring Deposit,Bhaktapur Central,BHKT0007,NPR,772454.62,7.76,2024-03-27,,Active,True
+100037,27,Recurring Deposit,Itahari Plaza,ITHR0008,NPR,0,8.26,2020-02-29,2024-02-12,Closed,False
+100038,28,Savings,Itahari Plaza,ITHR0008,NPR,90356.81,4.88,2021-06-11,,Active,False
+100039,29,Recurring Deposit,Biratnagar East,BRTN0004,NPR,325286.88,10.3,2017-05-14,,Active,False
+100040,30,Checking,Bhaktapur Central,BHKT0007,NPR,-3191.86,0,2026-06-10,,Active,False
+100041,30,Recurring Deposit,Butwal West,BTWL0005,NPR,707459.36,8.92,2026-07-10,,Dormant,False
+100042,30,Recurring Deposit,Bhaktapur Central,BHKT0007,NPR,84605.14,9.54,2025-03-30,,Active,False
+100043,31,Savings,Biratnagar East,BRTN0004,NPR,112637.47,4.4,2025-11-15,,Active,False
+100044,31,Checking,Bhaktapur Central,BHKT0007,NPR,74750.72,0,2026-06-02,,Active,False
+100045,31,Savings,Lalitpur,LALI0003,NPR,110313.98,3.26,2026-03-30,,Active,False
+100046,32,Savings,Butwal West,BTWL0005,NPR,266499,4.47,2023-04-01,,Dormant,False
+100047,33,Checking,Biratnagar East,BRTN0004,NPR,3311.94,0,2024-04-19,,Active,True
+100048,34,Savings,Bhaktapur Central,BHKT0007,NPR,92368.77,5.42,2023-09-27,,Active,True
+100049,35,Recurring Deposit,Pokhara City,PKRA0002,NPR,617890.44,7.38,2026-07-12,,Active,False
+100050,35,Fixed Deposit,Lalitpur,LALI0003,NPR,399435.4,7.05,2026-07-11,,Active,False
+100051,35,Savings,Kathmandu Main,KTMN0001,NPR,51575.47,4.83,2026-06-11,,Active,False
+100052,36,Savings,Kathmandu Main,KTMN0001,NPR,43606.18,3.83,2025-08-13,,Active,False
+100053,37,Fixed Deposit,Pokhara City,PKRA0002,NPR,346559.54,8.52,2026-05-15,,Active,False
+100054,38,Checking,Bhaktapur Central,BHKT0007,NPR,74652.52,0,2022-02-27,,Active,False
+100055,39,Savings,Lalitpur,LALI0003,NPR,2345.92,6.03,2018-02-24,,Active,False
+100056,40,Fixed Deposit,Itahari Plaza,ITHR0008,NPR,625689.45,9.54,2020-08-18,,Active,False
+100057,41,Recurring Deposit,Itahari Plaza,ITHR0008,NPR,124345.8,7.26,2021-11-27,,Active,False
+100058,42,Fixed Deposit,Bhaktapur Central,BHKT0007,NPR,147653.39,8.9,2025-10-22,,Active,False
+100059,43,Savings,Pokhara City,PKRA0002,NPR,166375.38,4.36,2024-01-20,,Active,False
+100060,44,Checking,Bhaktapur Central,BHKT0007,NPR,116883.59,0,2023-11-09,,Active,False
+100061,45,Checking,Lalitpur,LALI0003,NPR,42697.52,0,2024-07-24,,Active,False
+100062,45,Recurring Deposit,Itahari Plaza,ITHR0008,NPR,185338.7,8.09,2026-07-14,,Active,False
+100063,46,Checking,Butwal West,BTWL0005,NPR,30435.75,0,2024-10-26,,Dormant,False
+100064,47,Fixed Deposit,Itahari Plaza,ITHR0008,NPR,504461.92,8.32,2026-02-05,,Active,False
+100065,48,Savings,Pokhara City,PKRA0002,NPR,0,5.51,2020-07-27,2024-11-19,Closed,False
+100066,49,Recurring Deposit,Pokhara City,PKRA0002,NPR,322881.59,9.48,2025-07-31,,Active,True
+100067,50,Fixed Deposit,Butwal West,BTWL0005,NPR,660910.99,6.9,2026-01-06,,Active,False
+100068,51,Recurring Deposit,Butwal West,BTWL0005,NPR,767708.77,8.59,2024-06-10,,Active,False
+100069,52,Checking,Kathmandu Main,KTMN0001,NPR,0,0,2025-10-17,2026-04-14,Closed,True
+100070,52,Recurring Deposit,Biratnagar East,BRTN0004,NPR,349296.49,9.33,2026-06-20,,Active,False
+100071,52,Fixed Deposit,Pokhara City,PKRA0002,NPR,673945.38,9.71,2025-08-29,,Dormant,True
+100072,53,Checking,Bhaktapur Central,BHKT0007,NPR,21363.56,0,2024-11-17,,Active,True
+100073,54,Checking,Biratnagar East,BRTN0004,NPR,126727.22,0,2023-09-13,,Active,False
+100074,55,Fixed Deposit,Kathmandu Main,KTMN0001,NPR,0,10.44,2020-02-20,2023-05-07,Closed,True
+100075,55,Checking,Pokhara City,PKRA0002,NPR,31506.16,0,2019-04-20,,Active,False
+100076,55,Savings,Bhaktapur Central,BHKT0007,NPR,0,3.31,2023-04-19,2024-07-14,Closed,False
+100077,56,Fixed Deposit,Itahari Plaza,ITHR0008,NPR,625099.81,7.43,2023-11-04,,Active,False
+100078,57,Checking,Kathmandu Main,KTMN0001,NPR,24811.78,0,2025-10-24,,Active,False
+100079,58,Checking,Butwal West,BTWL0005,NPR,23593.6,0,2019-10-10,,Active,False
+100080,58,Recurring Deposit,Pokhara City,PKRA0002,NPR,0,9.59,2019-03-26,2022-09-18,Closed,False
+100081,58,Recurring Deposit,Biratnagar East,BRTN0004,NPR,54997.86,9.61,2024-11-20,,Active,False
+100082,59,Fixed Deposit,Butwal West,BTWL0005,NPR,0,7.58,2017-07-19,2019-02-20,Closed,True
+100083,59,Recurring Deposit,Lalitpur,LALI0003,NPR,882412.75,10.28,2018-01-11,,Dormant,False
+100084,59,Checking,Pokhara City,PKRA0002,NPR,59770.39,0,2021-01-17,,Active,False
+100085,60,Fixed Deposit,Butwal West,BTWL0005,NPR,646380.27,8.52,2022-07-15,,Active,True
+100086,61,Recurring Deposit,Itahari Plaza,ITHR0008,NPR,296079.88,9.01,2025-07-16,,Active,True
+100087,62,Recurring Deposit,Pokhara City,PKRA0002,NPR,0,9.04,2024-08-29,2025-08-03,Closed,True
+100088,63,Recurring Deposit,Itahari Plaza,ITHR0008,NPR,323541.08,8.12,2024-08-28,,Dormant,True
+100089,64,Fixed Deposit,Biratnagar East,BRTN0004,NPR,685331.03,6.61,2017-12-26,,Active,False
+100090,65,Fixed Deposit,Dharan North,DHRN0006,NPR,0,10.67,2024-02-25,2025-08-16,Closed,False
+100091,65,Savings,Butwal West,BTWL0005,NPR,114122.98,5.27,2026-07-27,,Active,False
+100092,66,Fixed Deposit,Lalitpur,LALI0003,NPR,762147.59,7.64,2025-02-11,,Active,True
+100093,67,Recurring Deposit,Kathmandu Main,KTMN0001,NPR,409533.01,9.79,2026-07-03,,Active,False
+100094,68,Savings,Lalitpur,LALI0003,NPR,41920.92,5.23,2024-07-22,,Active,False
+100095,69,Savings,Itahari Plaza,ITHR0008,NPR,65873.44,4.3,2025-12-17,,Active,True
+100096,70,Recurring Deposit,Lalitpur,LALI0003,NPR,612381.32,8.82,2022-08-03,,Active,False
+100097,70,Fixed Deposit,Pokhara City,PKRA0002,NPR,616188.54,10.22,2023-06-17,,Active,False
+100098,71,Savings,Itahari Plaza,ITHR0008,NPR,202740.81,4.99,2026-04-28,,Dormant,False
+100099,72,Fixed Deposit,Itahari Plaza,ITHR0008,NPR,822400.59,10.39,2026-07-08,,Dormant,False
+100100,73,Savings,Kathmandu Main,KTMN0001,NPR,197701.62,4.98,2026-04-24,,Dormant,False
+100101,73,Fixed Deposit,Itahari Plaza,ITHR0008,NPR,785473.21,8.89,2026-01-15,,Active,True
+100102,73,Checking,Biratnagar East,BRTN0004,NPR,0,0,2026-06-23,2026-07-03,Closed,False
+100103,74,Recurring Deposit,Dharan North,DHRN0006,NPR,530092.75,8.28,2025-10-17,,Active,True
+100104,75,Checking,Pokhara City,PKRA0002,NPR,114138.74,0,2025-04-12,,Active,False
+100105,76,Fixed Deposit,Itahari Plaza,ITHR0008,NPR,439431.7,8.94,2018-05-13,,Dormant,True
+100106,77,Savings,Bhaktapur Central,BHKT0007,NPR,40718.34,4.76,2023-04-20,,Active,True
+100107,77,Savings,Itahari Plaza,ITHR0008,NPR,51790.93,6.36,2025-01-31,,Dormant,False
+100108,78,Checking,Dharan North,DHRN0006,NPR,68019.02,0,2026-02-11,,Active,True
+100109,78,Fixed Deposit,Kathmandu Main,KTMN0001,NPR,0,8.57,2019-05-07,2026-01-04,Closed,True
+100110,79,Recurring Deposit,Pokhara City,PKRA0002,NPR,147504.33,9.78,2024-06-25,,Dormant,False
+100111,79,Checking,Dharan North,DHRN0006,NPR,0,0,2025-04-08,2026-03-22,Closed,False
+100112,80,Fixed Deposit,Dharan North,DHRN0006,NPR,86978.21,9.22,2026-03-23,,Active,True
+100113,81,Fixed Deposit,Pokhara City,PKRA0002,NPR,0,7.37,2015-06-25,2018-03-14,Closed,False
+100114,82,Recurring Deposit,Pokhara City,PKRA0002,NPR,464840.6,6.83,2024-09-06,,Active,False
+100115,83,Fixed Deposit,Bhaktapur Central,BHKT0007,NPR,550068.12,7.63,2025-05-06,,Active,False
+100116,84,Savings,Kathmandu Main,KTMN0001,NPR,146407.51,4.69,2025-02-18,,Active,True
+100117,84,Savings,Pokhara City,PKRA0002,NPR,245580.26,5.38,2024-03-27,,Dormant,False
+100118,84,Recurring Deposit,Lalitpur,LALI0003,NPR,244827.66,10.81,2025-09-23,,Active,True
+100119,85,Checking,Butwal West,BTWL0005,NPR,109428.4,0,2019-11-03,,Dormant,False
+100120,86,Fixed Deposit,Itahari Plaza,ITHR0008,NPR,448144.56,10.72,2024-05-21,,Dormant,False
+100121,87,Recurring Deposit,Dharan North,DHRN0006,NPR,261428.95,10.44,2022-03-04,,Active,True
+100122,88,Checking,Butwal West,BTWL0005,NPR,3934.79,0,2023-08-10,,Active,False
+100123,89,Checking,Kathmandu Main,KTMN0001,NPR,156007.95,0,2025-10-31,,Active,False
+100124,90,Savings,Dharan North,DHRN0006,NPR,238016.11,3.83,2024-07-01,,Active,False
+100125,91,Fixed Deposit,Dharan North,DHRN0006,NPR,482570.99,9.36,2025-04-10,,Active,False
+100126,92,Recurring Deposit,Dharan North,DHRN0006,NPR,0,10.48,2020-09-05,2024-06-17,Closed,False
+100127,92,Fixed Deposit,Biratnagar East,BRTN0004,NPR,178188.38,7.42,2022-08-20,,Active,False
+100128,93,Recurring Deposit,Butwal West,BTWL0005,NPR,106376.49,7.86,2020-02-12,,Dormant,False
+100129,94,Fixed Deposit,Pokhara City,PKRA0002,NPR,836061.46,9.13,2019-02-05,,Dormant,False
+100130,95,Recurring Deposit,Dharan North,DHRN0006,NPR,0,7.94,2024-09-25,2024-12-03,Closed,False
+100131,96,Fixed Deposit,Kathmandu Main,KTMN0001,NPR,582482.03,7.57,2024-11-16,,Active,True
+100132,97,Recurring Deposit,Itahari Plaza,ITHR0008,NPR,290240.07,8.76,2019-05-09,,Dormant,True
+100133,98,Savings,Lalitpur,LALI0003,NPR,24252.87,5.83,2024-05-15,,Active,False
+100134,99,Savings,Biratnagar East,BRTN0004,NPR,192924.43,3.05,2020-07-02,,Dormant,False
+100135,99,Savings,Biratnagar East,BRTN0004,NPR,260386.13,3.09,2021-01-27,,Active,False
+100136,100,Fixed Deposit,Lalitpur,LALI0003,NPR,726822.75,6.89,2016-06-09,,Active,False
+100137,101,Recurring Deposit,Butwal West,BTWL0005,NPR,71879.8,7.93,2025-05-11,,Active,False
+100138,101,Savings,Bhaktapur Central,BHKT0007,NPR,0,3.07,2026-03-16,2026-06-08,Closed,False
+100139,102,Savings,Dharan North,DHRN0006,NPR,103560.35,5.38,2025-05-08,,Active,False
+100140,103,Fixed Deposit,Biratnagar East,BRTN0004,NPR,269156.28,9.7,2026-02-28,,Dormant,True
+100141,104,Fixed Deposit,Itahari Plaza,ITHR0008,NPR,357151.66,8.88,2023-02-10,,Active,False
+100142,104,Checking,Butwal West,BTWL0005,NPR,81443.55,0,2016-12-10,,Dormant,False
+100143,105,Checking,Bhaktapur Central,BHKT0007,NPR,109430.42,0,2023-07-30,,Active,True
+100144,106,Checking,Lalitpur,LALI0003,NPR,60734.56,0,2024-01-21,,Dormant,False
+100145,107,Checking,Kathmandu Main,KTMN0001,NPR,0,0,2020-07-28,2023-04-17,Closed,False
+100146,107,Checking,Dharan North,DHRN0006,NPR,78498.6,0,2025-08-13,,Active,False
+100147,107,Savings,Pokhara City,PKRA0002,NPR,0,5.26,2024-01-16,2024-01-31,Closed,False
+100148,108,Fixed Deposit,Kathmandu Main,KTMN0001,NPR,369593.15,10.58,2025-08-12,,Dormant,False
+100149,109,Checking,Kathmandu Main,KTMN0001,NPR,41316.31,0,2025-04-26,,Active,False
+100150,109,Checking,Biratnagar East,BRTN0004,NPR,53296.54,0,2025-08-09,,Active,False
+100151,109,Fixed Deposit,Butwal West,BTWL0005,NPR,884143.08,10.06,2026-01-04,,Active,False
+100152,110,Fixed Deposit,Lalitpur,LALI0003,NPR,125167.99,6.52,2021-08-23,,Active,False
+100153,110,Checking,Dharan North,DHRN0006,NPR,100894.16,0,2025-01-27,,Active,False
+100154,111,Fixed Deposit,Kathmandu Main,KTMN0001,NPR,204952.64,10.39,2025-10-19,,Active,False
+100155,111,Savings,Pokhara City,PKRA0002,NPR,40448.59,4.06,2018-10-04,,Active,False
+100156,112,Checking,Itahari Plaza,ITHR0008,NPR,8963.5,0,2023-02-15,,Active,False
+100157,113,Recurring Deposit,Dharan North,DHRN0006,NPR,249419.71,10.06,2024-11-10,,Dormant,True
+100158,114,Checking,Bhaktapur Central,BHKT0007,NPR,128958.82,0,2025-04-08,,Active,True
+100159,115,Fixed Deposit,Pokhara City,PKRA0002,NPR,863591,10.87,2026-06-22,,Active,False
+100160,115,Savings,Lalitpur,LALI0003,NPR,0,5.58,2026-06-29,2026-08-02,Closed,True
+100161,115,Fixed Deposit,Itahari Plaza,ITHR0008,NPR,874917.08,10.34,2026-06-19,,Active,False
+100162,116,Fixed Deposit,Lalitpur,LALI0003,NPR,278653.24,10.85,2022-05-12,,Active,False
+100163,116,Savings,Bhaktapur Central,BHKT0007,NPR,80528.78,4.14,2025-05-24,,Active,True
+100164,117,Fixed Deposit,Dharan North,DHRN0006,NPR,885007.2,10.43,2026-07-17,,Active,False
+100165,118,Fixed Deposit,Bhaktapur Central,BHKT0007,NPR,379015.98,8.23,2026-01-13,,Active,False
+100166,119,Savings,Biratnagar East,BRTN0004,NPR,208252.74,5.55,2026-06-07,,Active,False
+100167,119,Checking,Pokhara City,PKRA0002,NPR,139385.86,0,2021-10-14,,Dormant,True
+100168,120,Fixed Deposit,Itahari Plaza,ITHR0008,NPR,0,9.1,2026-03-11,2026-05-30,Closed,False
+100169,121,Recurring Deposit,Dharan North,DHRN0006,NPR,895536.41,7.55,2026-07-27,,Dormant,False
+100170,121,Fixed Deposit,Pokhara City,PKRA0002,NPR,276448.11,9.47,2024-05-03,,Dormant,False
+100171,122,Checking,Butwal West,BTWL0005,NPR,153248.69,0,2020-11-13,,Active,False
+100172,123,Recurring Deposit,Biratnagar East,BRTN0004,NPR,838229.39,8.88,2026-05-29,,Active,False
+100173,124,Fixed Deposit,Biratnagar East,BRTN0004,NPR,748602.26,8.57,2022-11-14,,Active,True
+100174,125,Fixed Deposit,Bhaktapur Central,BHKT0007,NPR,180767.75,7.63,2017-03-08,,Active,True
+100175,126,Fixed Deposit,Itahari Plaza,ITHR0008,NPR,386216.02,10.99,2020-12-13,,Active,True
+100176,127,Recurring Deposit,Lalitpur,LALI0003,NPR,55031.6,7.09,2025-08-22,,Active,False
+100177,128,Checking,Dharan North,DHRN0006,NPR,142692.69,0,2025-03-26,,Active,False
+100178,129,Checking,Kathmandu Main,KTMN0001,NPR,2854.12,0,2025-08-22,,Active,False
+100179,130,Fixed Deposit,Dharan North,DHRN0006,NPR,275593.39,8.47,2020-06-21,,Active,False
+100180,131,Checking,Lalitpur,LALI0003,NPR,108157.96,0,2024-07-15,,Active,False
+100181,131,Savings,Itahari Plaza,ITHR0008,NPR,13004.87,5.64,2023-06-22,,Active,False
+100182,132,Fixed Deposit,Dharan North,DHRN0006,NPR,772243.01,7.08,2022-03-16,,Active,False
+100183,133,Fixed Deposit,Pokhara City,PKRA0002,NPR,330032.99,6.82,2023-09-15,,Active,False
+100184,133,Recurring Deposit,Bhaktapur Central,BHKT0007,NPR,472109.77,10.56,2022-02-19,,Active,True
+100185,133,Savings,Itahari Plaza,ITHR0008,NPR,0,6.48,2021-06-04,2026-02-17,Closed,False
+100186,134,Recurring Deposit,Bhaktapur Central,BHKT0007,NPR,485023.71,10.21,2025-11-06,,Active,False
+100187,134,Checking,Bhaktapur Central,BHKT0007,NPR,166046.36,0,2026-05-31,,Active,False
+100188,135,Recurring Deposit,Itahari Plaza,ITHR0008,NPR,237602.22,6.85,2017-05-07,,Active,True
+100189,136,Savings,Biratnagar East,BRTN0004,NPR,247286,3.7,2025-07-14,,Active,False
+100190,137,Savings,Bhaktapur Central,BHKT0007,NPR,299429.33,5.86,2024-09-07,,Active,False
+100191,138,Checking,Kathmandu Main,KTMN0001,NPR,43637.47,0,2019-10-22,,Dormant,False
+100192,139,Recurring Deposit,Butwal West,BTWL0005,NPR,522339.67,8.8,2023-07-31,,Active,False
+100193,140,Fixed Deposit,Butwal West,BTWL0005,NPR,731676.25,10.35,2026-05-25,,Active,False
+100194,141,Checking,Kathmandu Main,KTMN0001,NPR,114623.55,0,2022-06-28,,Dormant,False
+100195,142,Checking,Dharan North,DHRN0006,NPR,77808.95,0,2023-01-05,,Active,True
+100196,143,Savings,Pokhara City,PKRA0002,NPR,247104.33,3.12,2024-02-20,,Dormant,False
+100197,143,Recurring Deposit,Butwal West,BTWL0005,NPR,0,9.16,2021-10-20,2022-12-22,Closed,False
+100198,144,Recurring Deposit,Biratnagar East,BRTN0004,NPR,99058.92,8.45,2026-02-15,,Active,True
+100199,145,Savings,Itahari Plaza,ITHR0008,NPR,276758.34,4.96,2022-04-26,,Active,False
+100200,146,Fixed Deposit,Biratnagar East,BRTN0004,NPR,710913.82,9.72,2022-06-05,,Active,True
+100201,147,Checking,Pokhara City,PKRA0002,NPR,34068.63,0,2023-09-24,,Active,False
+100202,148,Recurring Deposit,Bhaktapur Central,BHKT0007,NPR,835277.3,7.1,2024-04-12,,Active,False
+100203,148,Recurring Deposit,Butwal West,BTWL0005,NPR,727624.41,9.68,2024-09-18,,Dormant,False
+100204,149,Fixed Deposit,Dharan North,DHRN0006,NPR,179113.14,10.1,2024-04-04,,Active,False
+100205,150,Savings,Dharan North,DHRN0006,NPR,192414.58,3.78,2022-09-28,,Active,True
+100206,151,Checking,Lalitpur,LALI0003,NPR,119634.48,0,2024-02-06,,Active,True
+100207,152,Fixed Deposit,Pokhara City,PKRA0002,NPR,0,7.81,2022-01-09,2024-12-17,Closed,False
+100208,153,Recurring Deposit,Pokhara City,PKRA0002,NPR,287999.01,7.86,2022-03-13,,Active,True
+100209,154,Recurring Deposit,Butwal West,BTWL0005,NPR,835915.81,6.65,2020-11-17,,Dormant,True
+100210,155,Fixed Deposit,Biratnagar East,BRTN0004,NPR,0,8,2024-12-14,2025-10-17,Closed,False
+100211,155,Recurring Deposit,Biratnagar East,BRTN0004,NPR,0,10.04,2025-06-14,2025-12-17,Closed,False
+100212,155,Savings,Itahari Plaza,ITHR0008,NPR,0,3.56,2024-10-17,2026-05-04,Closed,False
+100213,156,Savings,Kathmandu Main,KTMN0001,NPR,29619.42,5.26,2026-03-29,,Dormant,False
+100214,157,Fixed Deposit,Pokhara City,PKRA0002,NPR,0,9.48,2020-02-12,2021-12-14,Closed,True
+100215,158,Recurring Deposit,Butwal West,BTWL0005,NPR,129911.21,10.46,2026-01-03,,Active,True
+100216,159,Fixed Deposit,Pokhara City,PKRA0002,NPR,259074.59,9.06,2020-11-02,,Active,True
+100217,160,Fixed Deposit,Biratnagar East,BRTN0004,NPR,521998.14,10.95,2019-03-17,,Active,False
+100218,161,Checking,Pokhara City,PKRA0002,NPR,169342.75,0,2026-06-14,,Active,False
+100219,161,Checking,Biratnagar East,BRTN0004,NPR,20887.52,0,2026-06-19,,Active,False
+100220,162,Recurring Deposit,Bhaktapur Central,BHKT0007,NPR,298164.11,10.51,2026-06-22,,Active,True
+100221,162,Checking,Biratnagar East,BRTN0004,NPR,137690.63,0,2025-09-14,,Dormant,True
+100222,162,Checking,Pokhara City,PKRA0002,NPR,-250.15,0,2025-12-19,,Active,False
+100223,163,Fixed Deposit,Pokhara City,PKRA0002,NPR,553083.5,7.32,2026-07-29,,Active,False
+100224,163,Recurring Deposit,Bhaktapur Central,BHKT0007,NPR,720321.18,7.17,2024-07-15,,Active,False
+100225,164,Fixed Deposit,Lalitpur,LALI0003,NPR,836163.76,9.59,2019-08-07,,Active,True
+100226,165,Recurring Deposit,Kathmandu Main,KTMN0001,NPR,712371.18,10.59,2024-05-19,,Dormant,True
+100227,165,Checking,Kathmandu Main,KTMN0001,NPR,139884,0,2026-05-03,,Active,True
+100228,165,Fixed Deposit,Lalitpur,LALI0003,NPR,621810.66,9.86,2026-02-05,,Active,False
+100229,166,Fixed Deposit,Kathmandu Main,KTMN0001,NPR,0,8.24,2026-05-17,2026-07-31,Closed,False
+100230,167,Savings,Pokhara City,PKRA0002,NPR,72411.76,5.06,2022-12-02,,Active,False
+100231,167,Recurring Deposit,Kathmandu Main,KTMN0001,NPR,0,9.57,2024-06-27,2025-08-05,Closed,False
+100232,168,Recurring Deposit,Pokhara City,PKRA0002,NPR,0,8.03,2018-07-11,2026-01-22,Closed,False
+100233,168,Fixed Deposit,Kathmandu Main,KTMN0001,NPR,563255.31,10.78,2019-05-02,,Active,False
+100234,169,Fixed Deposit,Itahari Plaza,ITHR0008,NPR,513593.76,6.87,2019-11-23,,Active,False
+100235,170,Savings,Butwal West,BTWL0005,NPR,297742.06,3.66,2019-08-17,,Active,False
+100236,170,Recurring Deposit,Biratnagar East,BRTN0004,NPR,630508.46,6.69,2017-03-19,,Active,False
+100237,171,Fixed Deposit,Lalitpur,LALI0003,NPR,240570.31,10.5,2024-04-21,,Active,False
+100238,172,Fixed Deposit,Biratnagar East,BRTN0004,NPR,498114.31,6.5,2018-11-11,,Active,False
+100239,173,Checking,Itahari Plaza,ITHR0008,NPR,0,0,2021-11-05,2023-04-02,Closed,True
+100240,174,Recurring Deposit,Lalitpur,LALI0003,NPR,616362.01,6.84,2025-11-07,,Active,False
+100241,174,Recurring Deposit,Butwal West,BTWL0005,NPR,309533.58,9.69,2020-09-20,,Active,False
+100242,174,Savings,Itahari Plaza,ITHR0008,NPR,207628.93,3.06,2022-12-08,,Active,True
+100243,175,Recurring Deposit,Butwal West,BTWL0005,NPR,669532.25,9.87,2025-11-22,,Active,True
+100244,176,Recurring Deposit,Lalitpur,LALI0003,NPR,172847.33,9.14,2020-08-26,,Active,True
+100245,176,Recurring Deposit,Lalitpur,LALI0003,NPR,0,8.95,2023-09-22,2025-01-29,Closed,False
+100246,176,Recurring Deposit,Pokhara City,PKRA0002,NPR,868569.3,9.69,2024-11-03,,Active,False
+100247,177,Recurring Deposit,Kathmandu Main,KTMN0001,NPR,345158.43,7.13,2024-09-07,,Dormant,True
+100248,178,Checking,Butwal West,BTWL0005,NPR,47954.86,0,2024-09-07,,Dormant,False
+100249,179,Fixed Deposit,Lalitpur,LALI0003,NPR,807555.76,8.64,2024-11-30,,Active,False
+100250,179,Recurring Deposit,Bhaktapur Central,BHKT0007,NPR,0,7.94,2024-06-16,2025-03-09,Closed,False
+100251,180,Checking,Itahari Plaza,ITHR0008,NPR,111777.06,0,2025-08-03,,Active,False
+100252,181,Fixed Deposit,Itahari Plaza,ITHR0008,NPR,0,7.74,2025-07-09,2026-02-04,Closed,False
+100253,182,Recurring Deposit,Butwal West,BTWL0005,NPR,270767.65,9.97,2024-03-22,,Active,True
+100254,182,Fixed Deposit,Dharan North,DHRN0006,NPR,275693.5,7.6,2023-11-28,,Active,True
+100255,183,Savings,Bhaktapur Central,BHKT0007,NPR,50193.28,3.62,2020-06-30,,Active,True
+100256,183,Recurring Deposit,Bhaktapur Central,BHKT0007,NPR,383684.47,10.13,2023-01-30,,Active,False
+100257,184,Checking,Bhaktapur Central,BHKT0007,NPR,17110.2,0,2026-03-10,,Active,False
+100258,184,Savings,Bhaktapur Central,BHKT0007,NPR,1430.8,5.01,2024-07-01,,Dormant,False
+100259,185,Recurring Deposit,Biratnagar East,BRTN0004,NPR,0,9.56,2024-05-31,2025-03-07,Closed,False
+100260,186,Checking,Pokhara City,PKRA0002,NPR,131685.67,0,2023-08-20,,Active,False
+100261,187,Checking,Bhaktapur Central,BHKT0007,NPR,125859.94,0,2022-09-13,,Active,False
+100262,187,Checking,Biratnagar East,BRTN0004,NPR,59631.44,0,2019-04-20,,Active,True
+100263,188,Savings,Pokhara City,PKRA0002,NPR,1527.1,5.2,2025-10-25,,Active,False
+100264,189,Savings,Itahari Plaza,ITHR0008,NPR,161589.94,4.64,2015-07-29,,Active,False
+100265,190,Fixed Deposit,Dharan North,DHRN0006,NPR,245746.71,9,2021-05-22,,Dormant,False
+100266,191,Savings,Biratnagar East,BRTN0004,NPR,243327.4,3.94,2023-10-15,,Active,False
+100267,192,Fixed Deposit,Pokhara City,PKRA0002,NPR,381760.51,10.8,2017-11-06,,Active,False
+100268,193,Savings,Dharan North,DHRN0006,NPR,197518.86,3.88,2022-03-24,,Active,False
+100269,194,Recurring Deposit,Itahari Plaza,ITHR0008,NPR,0,9.27,2025-02-03,2026-05-14,Closed,True
+100270,195,Fixed Deposit,Biratnagar East,BRTN0004,NPR,0,10,2024-09-16,2026-02-26,Closed,False
+100271,196,Checking,Butwal West,BTWL0005,NPR,0,0,2022-10-06,2026-03-14,Closed,True
+100272,196,Fixed Deposit,Biratnagar East,BRTN0004,NPR,760143.38,9.39,2024-12-23,,Active,False
+100273,197,Checking,Dharan North,DHRN0006,NPR,11788.92,0,2023-06-08,,Active,False
+100274,198,Recurring Deposit,Kathmandu Main,KTMN0001,NPR,341497.07,10.36,2025-10-14,,Active,False
+100275,199,Recurring Deposit,Itahari Plaza,ITHR0008,NPR,725537.35,8.64,2017-05-17,,Active,False
+100276,199,Savings,Butwal West,BTWL0005,NPR,63182.09,3.88,2022-02-22,,Active,True
+100277,200,Checking,Butwal West,BTWL0005,NPR,137590.01,0,2026-03-01,,Active,False
+100278,200,Checking,Bhaktapur Central,BHKT0007,NPR,-5579.38,0,2025-01-31,,Active,False
+100279,200,Recurring Deposit,Kathmandu Main,KTMN0001,NPR,444155.17,6.69,2024-09-25,,Active,True
+100280,99999,Savings,Kathmandu Main,KTMN0001,NPR,15000,4,2023-05-10,,Active,False

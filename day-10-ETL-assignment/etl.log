@@ -1,0 +1,19 @@
+2026-09-26 21:36:46,136 | INFO | Connected to database 'postgres'
+2026-09-26 21:36:58,849 | INFO | Schema created/verified (customers, accounts, transactions, loans, account_summary)
+2026-09-26 21:37:09,696 | INFO | Truncated all tables before reseeding
+2026-09-26 21:37:09,700 | INFO | Loaded 201 rows into customers from data/customers.csv
+2026-09-26 21:37:09,704 | INFO | Loaded 279 rows into accounts from data/accounts.csv
+2026-09-26 21:37:09,756 | INFO | Loaded 4613 rows into transactions from data/transactions.csv
+2026-09-26 21:37:09,758 | INFO | Seeded 6 loan rows across 3 real customers (ids 1, 2, 3)
+2026-09-26 21:37:09,758 | INFO | Data load complete
+2026-09-26 21:37:15,894 | INFO | Extracted 201 customer id(s)
+2026-09-26 21:37:15,913 | INFO | Extracted 4613 transaction row(s)
+2026-09-26 21:37:15,914 | INFO | Extracted 6 loan row(s)
+2026-09-26 21:37:23,711 | INFO | Upserted 201 row(s) into account_summary
+2026-09-26 21:37:27,019 | INFO | Verification: 201 customers, 201 account_summary rows, match=True
+2026-09-26 21:37:31,435 | ERROR | Attempt 1/3 for extract_transactions failed: SSL connection has been closed unexpectedly
+
+2026-09-26 21:37:31,445 | INFO | Connected to database 'postgres'
+2026-09-26 21:37:31,445 | INFO | Reconnected to database 'postgres'
+2026-09-26 21:37:32,473 | INFO | Extracted 4613 transaction row(s)
+2026-09-26 21:37:42,437 | INFO | Connection closed

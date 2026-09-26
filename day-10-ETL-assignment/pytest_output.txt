@@ -1,0 +1,19 @@
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-9.1.1, pluggy-1.6.0 -- /usr/bin/python3
+cachedir: .pytest_cache
+rootdir: /home/claude/assignment5
+collecting ... collected 11 items
+
+test_transform.py::test_categorize_boundary_exactly_5000_is_standard PASSED [  9%]
+test_transform.py::test_categorize_boundary_exactly_20000_is_premium PASSED [ 18%]
+test_transform.py::test_categorize_below_5000_is_basic PASSED            [ 27%]
+test_transform.py::test_categorize_defaulted_loan_overrides_high_transaction_total PASSED [ 36%]
+test_transform.py::test_transform_loans_customer_with_zero_loans_does_not_error PASSED [ 45%]
+test_transform.py::test_transform_loans_active_only_counted_in_exposure PASSED [ 54%]
+test_transform.py::test_transform_loans_flags_defaulted_status PASSED    [ 63%]
+test_transform.py::test_high_value_flag_true_when_single_txn_over_threshold PASSED [ 72%]
+test_transform.py::test_high_value_flag_false_when_all_txns_small PASSED [ 81%]
+test_transform.py::test_build_account_summary_customer_with_zero_loans_and_zero_txns PASSED [ 90%]
+test_transform.py::test_transform_sums_multiple_transactions_per_customer PASSED [100%]
+
+============================== 11 passed in 0.01s ==============================
